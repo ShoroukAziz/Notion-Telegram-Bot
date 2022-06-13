@@ -1,0 +1,4 @@
+telegrm_bot/bot_env/*
+.idea/*
+venv/*
+*__pycache__*
